@@ -3,7 +3,7 @@
 
 ---
 
-**Alunos:** Daniel Augusto de Campos da Silva, Gustavo Razera e Leonardo Souza Furiski
+**Alunos:** Daniel Augusto de Campos da Silva, Gustavo Razera e Leonardo Souza Furiski  
 **Cenário:** A – Inspeção de frutas em uma central de distribuição  
 **Dataset:** Fruits fresh and rotten for classification: https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification  
 **Classes:** `fresh` (1143 imagens), `rotten` (1143 imagens)  
