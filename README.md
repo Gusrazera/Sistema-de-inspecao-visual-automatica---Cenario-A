@@ -7,7 +7,7 @@
 **Cenário:** A – Inspeção de frutas em uma central de distribuição  
 **Dataset:** Fruits fresh and rotten for classification: https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification  
 **Classes:** `fresh` (1143 imagens), `rotten` (1143 imagens)  
-**Classificao:** Random Forest e SVM.
+**Classificacao:** Random Forest e SVM.
 
 ---
 
