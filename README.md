@@ -26,6 +26,4 @@
 ## Instalação e dependências
 
 ```bash
-pip list
-python.exe -m ensurepip
 pip install opencv-python numpy pandas matplotlib seaborn scikit-image scikit-learn
